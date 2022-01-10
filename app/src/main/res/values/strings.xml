@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">demoMyApplication</string>
+    <string name="roll_label">Click</string>
+    <string name="todo">TODO</string>
+</resources>
